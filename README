@@ -1,0 +1,23 @@
+# Automation Project with WebdriverIO
+
+This project contains automated tests using WebdriverIO to validate the functionality of the web application.
+
+## Prerequisites
+
+Before running the tests, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version 20.x or higher)
+- Package manager (npm)
+
+## Setup
+
+1. **Clone the repository:**
+2. **Make sure you have WebdriverIO installed in your local env:**
+
+## Running test
+1. **Run test using npx wdio run wdio.conf.ts**
+
+
+```bash
+git clone <your-repo-url>
+cd <your-project-directory>
